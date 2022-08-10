@@ -1,0 +1,15 @@
+[{
+  "Name": "nextgutter",
+  "Description": "Plugin to jump to the next gutter message.",
+  "Tags": ["nextgutter"],
+  "Website": "https://github.com/serge-v/nextgutter",
+  "Versions": [
+    {
+      "Version": "2.0.0",
+      "Url": "https://github.com/serge-v/nextgutter/archive/v2.0.0.zip",
+      "Require": {
+        "micro": ">=2.0.0"
+      }
+    }
+  ]
+}]
